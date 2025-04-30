@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 57596b73f249c68992d05ee2884aaaf52d9564ca
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +14,10 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<<<<<<< HEAD
+=======
+=======
+# gym-site
+A responsive website built with react.
+>>>>>>> 2c5d3a40a415da3670a5cd8c6d96edc641cffa0a
+>>>>>>> 57596b73f249c68992d05ee2884aaaf52d9564ca
